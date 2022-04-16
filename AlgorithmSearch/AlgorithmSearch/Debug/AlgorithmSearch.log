@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\egor1\source\repos\AlgorithmSearch\AlgorithmSearch\Source.cpp(25,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\egor1\source\repos\AlgorithmSearch\AlgorithmSearch\Source.cpp(43,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  AlgorithmSearch.vcxproj -> C:\Users\egor1\source\repos\AlgorithmSearch\Debug\AlgorithmSearch.exe
